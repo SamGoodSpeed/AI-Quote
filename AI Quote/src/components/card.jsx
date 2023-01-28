@@ -11,6 +11,8 @@ function Card() {
       quote: faker.lorem.sentence(),
       author: faker.name.fullName(),
     });
+
+
   }
 
 	// const [word, setWord] = useState();
